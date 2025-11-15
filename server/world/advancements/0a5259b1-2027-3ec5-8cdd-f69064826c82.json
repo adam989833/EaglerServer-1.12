@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2025-11-14 12:48:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2025-10-27 17:39:25 +0000"
@@ -95,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-11-14 21:15:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-11-03 16:14:43 +0000"
@@ -125,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-11-14 12:31:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-10-31 17:11:50 +0000"
@@ -152,6 +170,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-11-06 12:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-11-14 21:02:38 +0000"
     },
     "done": true
   },
@@ -310,6 +334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-11-14 21:15:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-10-31 17:11:50 +0000"
@@ -343,6 +373,18 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-11-06 12:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-11-14 21:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2025-11-14 12:48:15 +0000"
     },
     "done": true
   },
@@ -447,6 +489,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-10-31 17:22:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-11-14 20:56:44 +0000"
     },
     "done": true
   },
@@ -590,7 +638,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2025-11-14 12:48:55 +0000",
+      "zombie_villager": "2025-11-14 13:07:14 +0000",
       "skeleton": "2025-10-31 17:01:40 +0000",
+      "husk": "2025-11-14 21:20:32 +0000",
       "zombie": "2025-10-28 13:40:34 +0000",
       "spider": "2025-11-10 12:42:38 +0000",
       "creeper": "2025-11-10 13:28:59 +0000"
@@ -624,6 +675,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-11-10 12:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2025-11-14 13:53:02 +0000"
     },
     "done": true
   },
@@ -885,6 +942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-11-14 12:31:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-10-27 17:39:25 +0000"
@@ -1011,6 +1074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-11-14 12:31:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-10-31 17:07:57 +0000"
@@ -1030,12 +1099,16 @@
       "birch_forest": "2025-10-27 17:41:07 +0000",
       "desert_hills": "2025-11-05 16:00:14 +0000",
       "mesa": "2025-10-28 13:58:44 +0000",
+      "forest_hills": "2025-11-14 21:17:54 +0000",
       "plains": "2025-10-28 11:30:22 +0000",
       "savanna": "2025-10-28 13:34:38 +0000",
+      "jungle_hills": "2025-11-14 21:11:59 +0000",
+      "jungle_edge": "2025-11-14 21:11:41 +0000",
       "mesa_clear_rock": "2025-11-06 13:08:23 +0000",
       "savanna_rock": "2025-10-28 14:57:47 +0000",
       "birch_forest_hills": "2025-10-27 17:39:25 +0000",
       "river": "2025-10-28 13:36:46 +0000",
+      "jungle": "2025-11-14 21:11:43 +0000",
       "desert": "2025-10-28 13:36:50 +0000"
     },
     "done": false
@@ -1043,6 +1116,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-10-31 17:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-11-12 16:10:49 +0000"
     },
     "done": true
   },

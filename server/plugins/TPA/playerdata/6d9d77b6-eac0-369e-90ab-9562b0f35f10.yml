@@ -1,0 +1,17 @@
+player_name: ItzRealMe
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: 187.87753425984369
+  y: 71.0
+  z: 150.84336544765455
+  pitch: 25.04991
+  yaw: 303.3001
+logout_location:
+  world: um
+  x: 161.7950020388234
+  y: 158.0
+  z: 117.84950342250852
+  pitch: -66.600006
+  yaw: 258.89963

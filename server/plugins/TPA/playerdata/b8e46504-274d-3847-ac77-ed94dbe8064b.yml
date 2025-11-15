@@ -3,18 +3,18 @@ language: en_US
 setlang: false
 last_location:
   world: um
-  x: 9285.19518200535
+  x: 111.66177014666023
   y: 66.0
-  z: -7365.016108619086
-  pitch: 32.999935
-  yaw: -288.50427
+  z: -61.78836435918788
+  pitch: 7.4499946
+  yaw: -276.1505
 logout_location:
   world: um
-  x: 9288.058082411932
+  x: 148.40383558972394
   y: 69.0
-  z: -7373.452062352513
-  pitch: 51.149975
-  yaw: 77.49658
+  z: -100.71690880476835
+  pitch: 34.649994
+  yaw: -111.000496
 default_home: ham
 homes:
   ham:

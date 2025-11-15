@@ -1,0 +1,10 @@
+name: _Manepear_
+kits:
+  iron:
+    cooldown: 1763258139999
+    one_time: true
+    bought: false
+  food:
+    cooldown: 1763127741059
+    one_time: false
+    bought: false

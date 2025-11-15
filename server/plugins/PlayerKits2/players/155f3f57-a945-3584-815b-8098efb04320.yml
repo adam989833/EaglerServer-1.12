@@ -1,1 +1,10 @@
 name: Mapicc_
+kits:
+  iron:
+    cooldown: 1763278138763
+    one_time: true
+    bought: false
+  food:
+    cooldown: 1763147739662
+    one_time: false
+    bought: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1763142170251
+  login: 1763142009072
+money: '77.15999999999996'
+last-account-name: ItzRealMe
+lastlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: 240.30051676927542
+  y: 69.0
+  z: 115.11524965273655
+  yaw: -82.05059814453125
+  pitch: 64.0499496459961
+logoutlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: 161.7950020388234
+  y: 158.0
+  z: 117.84950342250852
+  yaw: 258.8996276855469
+  pitch: -66.60000610351562

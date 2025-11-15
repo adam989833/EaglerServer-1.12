@@ -1,0 +1,17 @@
+player_name: flamefrags
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: 229.6180266429491
+  y: 208.0
+  z: 103.93955371265766
+  pitch: 17.549984
+  yaw: -310.95184
+logout_location:
+  world: um
+  x: 126.87252028962624
+  y: 145.0
+  z: -33.04367231273664
+  pitch: 28.79998
+  yaw: -123.454956

@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1762537179841
-  login: 1762536177854
+  logout: 1762964052817
+  login: 1762964085980
 money: '0'
 last-account-name: hdolf_aitler
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: -927.2817994772552
+  x: -927.9683806513276
   y: 63.0
-  z: 820.2375000119209
-  yaw: 3.5999937057495117
-  pitch: 50.249996185302734
+  z: 819.7550058851098
+  yaw: 24.300048828125
+  pitch: 32.09999465942383
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um

@@ -3,18 +3,18 @@ language: en_US
 setlang: false
 last_location:
   world: um
-  x: 120.30000001192093
-  y: 136.0
-  z: 38.07601019776269
-  pitch: 29.549402
-  yaw: -110.10309
+  x: 231.899353924511
+  y: 67.0
+  z: 97.94067754768479
+  pitch: 78.60015
+  yaw: -350.1007
 logout_location:
   world: um
-  x: 120.30000001192093
-  y: 136.0
-  z: 38.07601019776269
-  pitch: 29.549402
-  yaw: -110.10309
+  x: 223.0022166852673
+  y: 66.0
+  z: 88.15281324837713
+  pitch: 24.899998
+  yaw: -148.2003
 deny_list:
 - dad2c3d9-143b-36ce-9102-87e5b000be97
 default_home: default

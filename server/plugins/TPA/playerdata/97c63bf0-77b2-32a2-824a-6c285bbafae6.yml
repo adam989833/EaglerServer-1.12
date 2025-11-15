@@ -1,0 +1,17 @@
+player_name: '1__'
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -241.98092778368397
+  y: 69.16000000596047
+  z: 282.8746863206669
+  pitch: 69.59999
+  yaw: 306.14996
+logout_location:
+  world: um
+  x: -266.5180586397212
+  y: 66.0
+  z: 334.5835138345231
+  pitch: -49.95
+  yaw: 72.00009

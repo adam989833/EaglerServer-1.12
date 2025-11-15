@@ -3,15 +3,15 @@ language: en_GB
 setlang: false
 last_location:
   world: new
-  x: 0.5
+  x: 1.678745462887177
   y: 85.0
-  z: 0.5
-  pitch: 0.0
-  yaw: 0.0
+  z: -0.434554681831101
+  pitch: 16.799994
+  yaw: 75.60001
 logout_location:
-  world: new
-  x: 0.5
-  y: 85.0
-  z: 0.5
-  pitch: 27.45
-  yaw: -19.199999
+  world: um
+  x: 492.6080077261368
+  y: 56.0
+  z: -400.9863489286036
+  pitch: 14.849979
+  yaw: 241.79788

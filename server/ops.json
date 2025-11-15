@@ -52,5 +52,11 @@
     "name": "ParrotX2",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b716ba34-656a-3370-99c6-f2522d6b2779",
+    "name": "Nari",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

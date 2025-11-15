@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2025-11-13 17:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-11-03 17:41:42 +0000"
@@ -98,6 +104,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-11-03 16:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-11-13 17:33:59 +0000"
     },
     "done": true
   },
@@ -367,6 +379,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2025-10-29 13:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2025-11-13 17:34:10 +0000"
     },
     "done": true
   },
@@ -673,6 +691,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-11-13 17:33:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2025-10-29 13:33:08 +0000"
@@ -682,6 +706,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-11-03 17:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-11-13 17:33:23 +0000"
     },
     "done": true
   },
@@ -1137,6 +1167,7 @@
       "forest_hills": "2025-11-06 18:27:05 +0000",
       "plains": "2025-10-29 13:33:21 +0000",
       "savanna": "2025-10-30 13:43:41 +0000",
+      "mesa_clear_rock": "2025-11-13 17:29:09 +0000",
       "savanna_rock": "2025-11-03 15:44:35 +0000",
       "taiga": "2025-11-10 17:17:19 +0000",
       "taiga_hills": "2025-11-10 17:17:34 +0000",

@@ -5,6 +5,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-11-14 18:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-11-14 18:16:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-11-14 18:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-11-14 18:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-11-14 18:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-11-14 18:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-11-11 19:27:45 +0000"
@@ -13,7 +49,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "birch_forest_hills": "2025-11-11 19:27:46 +0000"
+      "birch_forest_hills": "2025-11-11 19:27:46 +0000",
+      "river": "2025-11-14 18:15:41 +0000"
     },
     "done": false
   }

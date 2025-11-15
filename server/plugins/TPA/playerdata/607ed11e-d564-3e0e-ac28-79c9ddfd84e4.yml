@@ -1,0 +1,26 @@
+player_name: gooner_boy_
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -274.3760569546479
+  y: 26.901999998092652
+  z: 218.93203852549098
+  pitch: 57.599987
+  yaw: -18.585358
+logout_location:
+  world: um
+  x: -274.3760569546479
+  y: 27.0
+  z: 218.93203852549098
+  pitch: 57.599987
+  yaw: -18.585358
+default_home: default
+homes:
+  default:
+    world: um
+    x: -274.3760569546479
+    y: 27.0
+    z: 218.93203852549098
+    pitch: 57.599987
+    yaw: -18.585358

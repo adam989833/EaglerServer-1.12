@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1762794474197
-  login: 1762793273885
+  logout: 1762961667500
+  login: 1762961587884
 money: '0'
 last-account-name: MASTERDICTATOR36
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: -928.2616010135606
-  y: 63.0
-  z: 819.2581393913163
-  yaw: 170.40087890625
-  pitch: 5.850008487701416
+  x: -929.5607653435841
+  y: 63.5625
+  z: 821.5242328086281
+  yaw: 215.25091552734375
+  pitch: 29.85000991821289
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
